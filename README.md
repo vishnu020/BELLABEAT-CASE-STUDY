@@ -1,7 +1,7 @@
 #Case Study: How Can a Wellness Technology Company Play It Smart?
 
 
-To solve the required study, I will go through every phase of Data analysis i.e, Ask,Prepare,Process,Analyze,Share and Act
+To solve thr problem, I will go through every phase of Data analysis i.e, Ask,Prepare,Process,Analyze,Share and Act
 
 #ASK
      Since this phase involves asking SMART(specific, measurable, action-oriented, relevant and time-bound) questions and understanding Stakeholders Expectations, so the      questions that need to be answered are:
